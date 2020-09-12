@@ -1,0 +1,8 @@
+# Python
+__pycache__
+venv
+
+# npm
+node_modules
+
+# Otros
